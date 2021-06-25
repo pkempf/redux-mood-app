@@ -1,0 +1,9 @@
+#mood-app {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.buttons {
+  display: block;
+  margin: 10px auto;
+}
